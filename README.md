@@ -10,7 +10,7 @@ Perfect for educational institutions to conduct real-time online tests, supporti
 ## 📌 Features
 
 - ✅ **Easy Setup** using XAMPP
-- 👥 **Supports simultaneous submission** from ~300~ students
+- 👥 **Supports simultaneous submission** from 300 students
 - 📄 **Stores questions and answers** in XML or database
 - 📊 **Publishes results** based on score and submission time
 - 🧾 **Handles errors** for invalid or incomplete submissions
