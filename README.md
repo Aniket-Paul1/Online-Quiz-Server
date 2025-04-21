@@ -1,28 +1,36 @@
-🧠 Online Quiz Server
-A lightweight, fast, and scalable online quiz server designed to run on a localhost using XAMPP. Capable of handling simultaneous submissions from up to 300 students, this project is a perfect solution for educational institutions conducting online tests.
+# 🧠 Online Quiz Server
 
-🛠️ Built entirely using Notepad and runs with minimal setup!
+A lightweight, fast, and scalable **online quiz server** designed to run on a **localhost** using **XAMPP**.  
+Perfect for educational institutions to conduct real-time online tests, supporting **up to 300 students submitting simultaneously**.
 
-📌 Features
-✅ Easy setup with XAMPP 
+> 🛠️ Built entirely using **Notepad** and runs with minimal setup!
 
-👥 Supports real-time submission from ~300 users
+---
 
-📄 XML/Database support for question/answer storage
+## 📌 Features
 
-📊 Result publishing based on scores and submission time
+- ✅ **Easy Setup** using XAMPP
+- 👥 **Supports simultaneous submission** from ~300 students
+- 📄 **Stores questions and answers** in XML or database
+- 📊 **Publishes results** based on score and submission time
+- 🧾 **Handles errors** for invalid or incomplete submissions
 
-🧾 Error handling for incomplete or invalid submissions
+---
 
-⚙️ Technology Stack
-Frontend: HTML, CSS, JavaScript
+## ⚙️ Technology Stack
 
-Backend: JSP
+| Layer      | Technology          |
+|------------|---------------------|
+| Frontend   | HTML, CSS, JavaScript |
+| Backend    | JSP                 |
+| Database   | XML                 |
+| Server     | Apache via XAMPP   |
 
-Database: XML
+---
 
-Server: Apache via XAMPP
+## ⚡ Performance
 
-⚡ Performance
-The system has been successfully tested for concurrent submissions from up to 300 students in real-time, without server lag or data loss.
+The system has been **successfully tested** to handle **up to 300 concurrent submissions** in real-time.  
+It performs efficiently without any noticeable lag or data loss, even under heavy load.
 
+---
